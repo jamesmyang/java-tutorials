@@ -1,4 +1,4 @@
-package com.atucity.tutorials;
+package com.atucity.tutorials.vectorapi;
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
